@@ -3,7 +3,7 @@
 **Repository:** `EH_sem3_2025_Notes`  
 **Directory:** `1st Assignment`  
 **Date:** 31 July 2025  
-**Author:** [Your Name]  
+**Author:** Krupa Anna Chandy  
 **Target:** http://testphp.vulnweb.com
 
 ---
